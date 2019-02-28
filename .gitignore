@@ -1,0 +1,13 @@
+/*
+
+!/.gitignore
+!/Assets
+!/Packages
+!/ProjectSettings
+!/LICENSE
+!/README.md
+
+.DS_Store
+*.DS_Store
+*~
+*Demigiant*
